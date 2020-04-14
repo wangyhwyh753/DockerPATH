@@ -1,2 +1,2 @@
 # get images
-FROM mcr.microsoft.com/java/jre:8u192-zulu-alpine
+FROM jenkinsci/blueocean
